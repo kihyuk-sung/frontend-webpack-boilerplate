@@ -37,7 +37,8 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [
             ["html-webpack-plugin", "virtual:abed5a33c2241023cf09571ea46d0ccad76173dd42078e773ea23fc3ddfef2ae7e7ca6610a9f6274247ba995b018d65d85d5a5ad96c74e56e4f0956db12e2706#npm:5.3.2"],
             ["webpack", "virtual:abed5a33c2241023cf09571ea46d0ccad76173dd42078e773ea23fc3ddfef2ae7e7ca6610a9f6274247ba995b018d65d85d5a5ad96c74e56e4f0956db12e2706#npm:5.52.0"],
-            ["webpack-cli", "virtual:abed5a33c2241023cf09571ea46d0ccad76173dd42078e773ea23fc3ddfef2ae7e7ca6610a9f6274247ba995b018d65d85d5a5ad96c74e56e4f0956db12e2706#npm:4.8.0"]
+            ["webpack-cli", "virtual:abed5a33c2241023cf09571ea46d0ccad76173dd42078e773ea23fc3ddfef2ae7e7ca6610a9f6274247ba995b018d65d85d5a5ad96c74e56e4f0956db12e2706#npm:4.8.0"],
+            ["webpack-merge", "npm:5.8.0"]
           ],
           "linkType": "SOFT",
         }]
@@ -825,7 +826,8 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["frontend-webpack-boilerplate", "workspace:."],
             ["html-webpack-plugin", "virtual:abed5a33c2241023cf09571ea46d0ccad76173dd42078e773ea23fc3ddfef2ae7e7ca6610a9f6274247ba995b018d65d85d5a5ad96c74e56e4f0956db12e2706#npm:5.3.2"],
             ["webpack", "virtual:abed5a33c2241023cf09571ea46d0ccad76173dd42078e773ea23fc3ddfef2ae7e7ca6610a9f6274247ba995b018d65d85d5a5ad96c74e56e4f0956db12e2706#npm:5.52.0"],
-            ["webpack-cli", "virtual:abed5a33c2241023cf09571ea46d0ccad76173dd42078e773ea23fc3ddfef2ae7e7ca6610a9f6274247ba995b018d65d85d5a5ad96c74e56e4f0956db12e2706#npm:4.8.0"]
+            ["webpack-cli", "virtual:abed5a33c2241023cf09571ea46d0ccad76173dd42078e773ea23fc3ddfef2ae7e7ca6610a9f6274247ba995b018d65d85d5a5ad96c74e56e4f0956db12e2706#npm:4.8.0"],
+            ["webpack-merge", "npm:5.8.0"]
           ],
           "linkType": "SOFT",
         }]

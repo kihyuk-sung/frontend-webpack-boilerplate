@@ -635,6 +635,7 @@ __metadata:
     html-webpack-plugin: ^5.3.2
     webpack: ^5.52.0
     webpack-cli: ^4.8.0
+    webpack-merge: ^5.8.0
   languageName: unknown
   linkType: soft
 
@@ -1358,7 +1359,7 @@ resolve@^1.9.0:
   languageName: node
   linkType: hard
 
-"webpack-merge@npm:^5.7.3":
+"webpack-merge@npm:^5.7.3, webpack-merge@npm:^5.8.0":
   version: 5.8.0
   resolution: "webpack-merge@npm:5.8.0"
   dependencies:

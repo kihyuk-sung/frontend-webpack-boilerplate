@@ -4,6 +4,10 @@
   "private": true,
   "author": "K <kihyuk.sung@outlook.kr>",
   "license": "MIT",
+  "scripts": {
+    "watch": "webpack -w --config webpack.dev.js",
+    "build": "webpack --config webpack.prod.js"
+  },
   "devDependencies": {
     "html-webpack-plugin": "^5.3.2",
     "webpack": "^5.52.0",
